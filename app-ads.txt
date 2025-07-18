@@ -1,0 +1,15 @@
+# app-ads.txt file for C2XK
+# This file declares the advertising systems authorized to serve ads for this app
+
+# Google AdMob
+google.com, pub-8507616889840533, DIRECT, f08c47fec0942fa0
+
+# Instructions for updating this file:
+# 1. Replace the publisher ID above with your actual AdMob publisher ID if different
+# 2. Add additional ad networks as needed using the format:
+#    domain.com, publisher-id, DIRECT/RESELLER, certification-authority-id
+# 3. Each line represents one authorized advertising relationship
+# 4. Lines starting with # are comments and are ignored
+
+# For more information about app-ads.txt:
+# https://iabtechlab.com/ads-txt-about/ 
